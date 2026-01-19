@@ -1,4 +1,5 @@
 📊 Loan Repayment Analysis – Exploratory Data Analysis (EDA)
+
 📌 Project Overview
 
 This project focuses on Exploratory Data Analysis (EDA) of a loan dataset to understand borrower behavior and identify key factors influencing loan repayment outcomes. The analysis aims to uncover patterns, trends, and risk indicators that can help financial institutions make better lending decisions.
