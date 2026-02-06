@@ -1,12 +1,12 @@
-📊 Loan Repayment Analysis – Exploratory Data Analysis (EDA)
+Loan Repayment Analysis – Exploratory Data Analysis (EDA)
 
-📌 Project Overview
+Project Overview :
 
 This project focuses on Exploratory Data Analysis (EDA) of a loan dataset to understand borrower behavior and identify key factors influencing loan repayment outcomes. The analysis aims to uncover patterns, trends, and risk indicators that can help financial institutions make better lending decisions.
 
 The project does not include machine learning models and is purely focused on data understanding, visualization, and insights generation.
 
-🎯 Objectives
+Objectives :
 
 Understand the structure and quality of loan data
 
@@ -16,7 +16,7 @@ Identify factors affecting loan repayment behavior
 
 Generate meaningful insights using visualizations
 
-📂 Dataset Information
+Dataset Information :
 
 Source: Kaggle
 
@@ -38,7 +38,7 @@ Revolving Balance (revol.bal)
 
 Credit History Length
 
-🧹 Data Preparation & Transformation
+Data Preparation & Transformation :
 
 Checked and confirmed no missing values
 
@@ -50,7 +50,7 @@ Created a new feature for credit history in years
 
 Removed redundant columns for better clarity
 
-📊 Exploratory Data Analysis Highlights
+Exploratory Data Analysis Highlights :
 
 Most loans fall within the 10%–14% interest rate range
 
@@ -62,7 +62,7 @@ Debt consolidation is the most common loan purpose
 
 The dataset shows class imbalance, with more fully paid loans
 
-🛠️ Tools & Technologies
+Tools & Technologies :
 
 Programming Language: Python (Latest)
 
@@ -76,7 +76,7 @@ matplotlib
 
 seaborn
 
-📈 Key Insights
+Key Insights :
 
 Credit score and DTI are strong indicators of repayment behavior
 
@@ -84,10 +84,6 @@ Higher interest rates are generally linked to higher borrower risk
 
 Clean and well-structured data supports reliable analysis
 
-👤 Author
-
-Santhoshkumar
-🔗 LinkedIn: www.linkedin.com/in/santhosh-kumar-63b084296
 
 📌 Conclusion
 
