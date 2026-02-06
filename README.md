@@ -85,6 +85,6 @@ Higher interest rates are generally linked to higher borrower risk
 Clean and well-structured data supports reliable analysis
 
 
-📌 Conclusion
+Conclusion :
 
 This EDA project provides valuable insights into loan repayment patterns and borrower risk factors. The findings can support better decision-making and serve as a foundation for future predictive modeling projects.
